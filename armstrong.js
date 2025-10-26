@@ -1,4 +1,4 @@
-// Armstrong number check in JavaScript
+
 
 function isArmstrong(num) {
   let sum = 0;
